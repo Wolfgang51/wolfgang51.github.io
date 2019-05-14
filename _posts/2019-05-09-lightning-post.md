@@ -7,7 +7,7 @@ Have you ever felt a rush of adrenaline pulse through your veins while standing 
 
 <div style="text-align:center"><img src="../images/fly-chopsticks.gif" width="350"></div>
 
-For every 50 pictures I've taken, I've found that no more than five have actually included the lightning. As you can imagine, it is no easy task. Funny enough, it was when I was at the most amateur stage of my photography that I managed to capture my best photo to date (paste image below). 
+For every 50 pictures I've taken, I've found that no more than five have actually included the lightning. As you can imagine, it is no easy task. Funny enough, it was when I was at the most amateur stage of my photography that I managed to capture my best photo to date. 
 
 <div style="text-align:center"><img src="../images/lightning.jpg" width="350"></div>
 
