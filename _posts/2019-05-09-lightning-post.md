@@ -3,11 +3,15 @@ layout: post
 title: Catching lightning in the still image form - Post 1
 ---
 
-Have you ever felt a rush of adrenaline pulse through your veins while standing in awe to the point of mesmerization while viewing lightning? For me, the answer yes and to this day I've held a keen fascination with its sheer power, compelling me to capture it in still image form. Growing up, I'd often find myself racing down backroads, chasing storms in the hopes of doing just this. As entertaining of a past time this has been, it doesn’t necessarily produce the desired results.  I'd compare my experience to trying to catch a fly with chopsticks (if that fly were to randomly appear and then disappear in space). 
+Have you ever felt a rush of adrenaline pulse through your veins while standing in awe to the point of mesmerization while viewing lightning? For me, the answer yes and to this day I've held a keen fascination with its sheer power, compelling me to capture it in still image form. Growing up, I'd often find myself racing down backroads, chasing storms in the hopes of doing just this. As entertaining of a past time this has been, it doesn’t necessarily produce the desired results.  
+
+> My experience photographing lightning has been comparable to trying to catch a fly with chopsticks (if that fly were to randomly appear and then disappear in space). 
+
 
 <div style="text-align:center"><img src="../images/fly-chopsticks.gif" width="350"></div>
 
-For every 50 pictures I've taken, I've found that no more than five have actually included the lightning. As you can imagine, it is no easy task. Funny enough, it was when I was at the most amateur stage of my photography that I managed to capture my best photo to date. 
+For every 50 pictures taken, five might include lightning. As you can imagine, it is no easy task. Funny enough, it was when I was at the most amateur stage of my photography that I managed to capture my best photo to date. 
+
 
 <div style="text-align:center"><img src="../images/lightning.jpg" width="350"></div>
 
