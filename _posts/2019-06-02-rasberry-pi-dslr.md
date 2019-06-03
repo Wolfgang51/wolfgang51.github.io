@@ -3,7 +3,7 @@ layout: post
 title: Catching lightning in the still image form - Post 2
 ---
 
-# Taking photos via gPhoto 📸
+## Taking photos via gPhoto 📸
 
 In my last post I provided a high level overview of the project I am embarking on. With the high level in mind, it's time to get a little more technical and start fleshing out the means in which I will achieve my goals. The first rational step that came to mind was driving my DSLR via my Raspberry PI. Moreover, I want to determine how to utilize Python to create a script that would do this automatically. Below is a concept image of what will be done in this post. 
 
